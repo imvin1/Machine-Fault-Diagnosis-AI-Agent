@@ -100,7 +100,13 @@ Agent's Thought Process (Conceptual):
 
 ## A Big Thank you Aswini Kumar Motapothula sir, and Edunet Foundation Team For invaluable guidance and support throughout the project.
 
+## Resouces :
 
+- https://www.nature.com/articles/s41598-024-79151-2
+
+- https://www.sciopen.com/article/10.32604/cmc.2024.054886
+
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC11723332/
 
 
 
